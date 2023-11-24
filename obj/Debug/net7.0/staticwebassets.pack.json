@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Shub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shub.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\arif\\ArefRuqaaInk-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\arif\\ArefRuqaaInk-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\arif\\ArefRuqaaInk-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\arif\\ArefRuqaaInk-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\arif\\OFL.txt",
+      "PackagePath": "staticwebassets\\font\\arif\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\lora\\Lora-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\lora\\Lora-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\lora\\Lora-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\lora\\Lora-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\lora\\Lora-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\lora\\Lora-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\lora\\Lora-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\lora\\Lora-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\lora\\Lora-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\lora\\Lora-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\lora\\Lora-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\lora\\Lora-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\lora\\Lora-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\lora\\Lora-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\font\\lora\\Lora-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\lora\\Lora-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\img\\anim.gif",
+      "PackagePath": "staticwebassets\\img\\anim.gif"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\img\\bag.png",
+      "PackagePath": "staticwebassets\\img\\bag.png"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\img\\fire.png",
+      "PackagePath": "staticwebassets\\img\\fire.png"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\img\\search.png",
+      "PackagePath": "staticwebassets\\img\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\shubh\\Desktop\\ShubShop\\Shub\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Shub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Shub.props",
+      "PackagePath": "build\\Shub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Shub.props",
+      "PackagePath": "buildMultiTargeting\\Shub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Shub.props",
+      "PackagePath": "buildTransitive\\Shub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

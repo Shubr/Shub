@@ -1,0 +1,101 @@
+@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&display=swap');
+@font-face{
+    font-family: lora;
+    src: url("../font/lora/Lora-Regular.ttf");
+}
+
+*{
+    font-family: lora;
+    margin: 0;
+    padding: 0;
+}
+
+body,html{
+    width: 100%;
+    height: 100%;
+    user-select: none;
+    -webkit-user-drag: none;
+    display: grid;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav{
+    position: sticky    ;
+    width: 100%;
+    height: 250px;;
+    align-items: center;
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    left: 0;
+    background-color: white;
+}
+
+.logo{
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;  
+    width: 100%;  
+}
+
+.logo p{
+    text-decoration: underline 2px;
+}   
+
+.scroll-up{
+    font-size: 200px;
+    transition: font-size 0.3s;
+}
+
+.scroll-down{
+    font-size: 80px;
+    transition: font-size 0.3s;
+
+}
+
+
+.nav img{
+    width: 30px;
+    height: 30px;
+}
+
+.nav li{
+    position: absolute;
+    right: 0;
+    padding-right: 50px;
+}
+.nav a{
+    padding-left: 10px;
+}
+
+.main-container{
+    width: 100%;
+    height: 2000px;
+    background-color: white;
+}
+
+
+/*HEADER IMAGE*/
+
+.header-img{
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+
+.header-images img{
+    width: 450px;
+    height: 680px;
+    background-color: grey;
+}

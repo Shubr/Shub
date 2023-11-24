@@ -1,0 +1,44 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Web
+@namespace Shub.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="~/" />
+    <link href="css/site.css" rel="stylesheet" />
+    <script src="js/home.js"></script>
+    <link href="Shub.styles.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="favicon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <component type="typeof(HeadOutlet)" render-mode="ServerPrerendered" />
+</head>
+<body>
+    <div class="main">
+        <div class="nav">
+            <div class="logo">
+                <p>20</p>
+                <h1 id="logo_shub"  class="scroll-up">SHUB</h1>
+                <p>21</p>
+            </div>
+            <li>
+                <a><img draggable="false" src="img/search.png"></a>
+                <a><img draggable="false"  src="img/fire.png"></a>
+                <a><img draggable="false" src="img/bag.png"></a>
+                <a><img draggable="false" src="img/user.png"></a>
+            </li>
+        </div>
+        <div class="main-container">
+            <div class="header-img-container">
+                <div class="header-images">
+                    <img></img>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
